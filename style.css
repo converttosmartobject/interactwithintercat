@@ -1,6 +1,5 @@
 body{
-  /* import background image from GIPHY  */
-  background-image: url(http://giphygifs.s3.amazonaws.com/media/4xuVp2pfYSc5G/giphy.gif);
+  background-image: url("mel1.jpg")
   background-size: 100%;
   font-family: "Courier New", Courier, monospace;
   color:black;
