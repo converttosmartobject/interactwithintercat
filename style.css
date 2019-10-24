@@ -11,6 +11,6 @@ body{
   margin-top:48px;
 }
 .video1{
-  justify-content: space-around;
+  justify-content: center;
   transform: scale(.8);
 }
