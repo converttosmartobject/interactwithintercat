@@ -4,7 +4,13 @@ body{
   font-family: "Courier New", Courier, monospace;
   color:black;
   text-align: center;
-  .mel1{
-    transform: rotate(90deg);
-  }
+}
+.mel1{
+  transform: rotate(90deg);
+  margin-bottom: 48px;
+  margin-top:48px;
+}
+.video1{
+  justify-content: space-around;
+  transform: scale(.8);
 }
