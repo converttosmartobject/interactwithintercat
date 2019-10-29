@@ -5,31 +5,13 @@ body{
   color:black;
   text-align: center;
 }
+
 .image1{
   transform: rotate(-270deg);
   margin-bottom: 48px;
-  margin-top:48px;
+  margin-top: 48px;
 }
-/* .mel2{
-  transform: rotate(90deg);
-  margin-bottom: 48px;
-  margin-top:48px;
-}
-.mel3{
-  transform: rotate(90deg);
-  margin-bottom: 48px;
-  margin-top:48px;
-}
-.mel4{
-  transform: rotate(90deg);
-  margin-bottom: 48px;
-  margin-top:48px;
-}
-.mel5{
-  transform: rotate(90deg);
-  margin-bottom: 48px;
-  margin-top:48px;
-} */
+
 .video1{
   align-content: center;
   transform: scale(1);
