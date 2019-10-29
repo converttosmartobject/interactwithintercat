@@ -5,12 +5,12 @@ body{
   color:black;
   text-align: center;
 }
-.mel1{
-  transform: rotate(90deg);
+.image1{
+  transform: rotate(-270deg);
   margin-bottom: 48px;
   margin-top:48px;
 }
-.mel2{
+/* .mel2{
   transform: rotate(90deg);
   margin-bottom: 48px;
   margin-top:48px;
@@ -29,18 +29,8 @@ body{
   transform: rotate(90deg);
   margin-bottom: 48px;
   margin-top:48px;
-}
+} */
 .video1{
   align-content: center;
   transform: scale(1);
-}
-
-.video2{
-  align-content: center;
-  transform: scale(1);
-}
-
-.video3{
-  align-content: center;
-  transform: scale(.1);
 }
