@@ -11,6 +11,11 @@ body{
   margin-top:48px;
 }
 .video1{
-  justify-content: center;
-  transform: scale(.8);
+  align-content: center;
+  transform: scale(.5);
+}
+
+.video2{
+  align-content: center;
+  transform: scale(.5);
 }
