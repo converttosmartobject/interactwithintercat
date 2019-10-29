@@ -10,12 +10,37 @@ body{
   margin-bottom: 48px;
   margin-top:48px;
 }
+.mel2{
+  transform: rotate(90deg);
+  margin-bottom: 48px;
+  margin-top:48px;
+}
+.mel3{
+  transform: rotate(90deg);
+  margin-bottom: 48px;
+  margin-top:48px;
+}
+.mel4{
+  transform: rotate(90deg);
+  margin-bottom: 48px;
+  margin-top:48px;
+}
+.mel5{
+  transform: rotate(90deg);
+  margin-bottom: 48px;
+  margin-top:48px;
+}
 .video1{
   align-content: center;
-  transform: scale(.5);
+  transform: scale(1);
 }
 
 .video2{
   align-content: center;
-  transform: scale(.5);
+  transform: scale(1);
+}
+
+.video3{
+  align-content: center;
+  transform: scale(.1);
 }
